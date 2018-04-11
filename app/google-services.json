@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "840767775799",
+    "firebase_url": "https://votingsystem-2e4be.firebaseio.com",
+    "project_id": "votingsystem-2e4be",
+    "storage_bucket": "votingsystem-2e4be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840767775799:android:010da21e3d1c5e7a",
+        "android_client_info": {
+          "package_name": "plant.kz.aygolek.votingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840767775799-f8oo4ins86fcmvvnag861u6dbqqfqlfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66QQEWZElRWVGtOcCWxZ3IY7ngaumcvk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

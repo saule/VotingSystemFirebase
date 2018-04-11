@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">votingSystem</string>
+    <string name="topic_name">Topic name</string>
+    <string name="optionContent">Option content</string>
+    <string name="createVotingTopic">Create Voting Topic</string>
+    <string name="VotingTopicName">Topic of Voting</string>
+    <string name="lblSubmit">Submit</string>
+</resources>
